@@ -4,9 +4,12 @@
 <translation>
 
  <intro>
-  The Russian translation of the PHP Documentation is managed
-  by Antony Dovgal. If you would like to help us translate PHP Manual into Russian,
-  please feel free to contact on mailing list doc-ru@lists.php.net. Thank you.
+  Если вы хотите помочь в переводе документации PHP на русский язык,
+  присоединяйтесь к команде переводчиков в
+  <a href="https://join.slack.com/t/ruphpdoc/shared_invite/zt-ax1czx68-c3_XSVhsgzYJCOslmwvJkQ">Slack</a>,
+  <a href="https://t.me/php_doc_ru">Telegram</a>
+  или напишите в список рассылки <a href="mailto:doc-ru@lists.php.net">doc-ru@lists.php.net</a>.
+  Спасибо.
  </intro>
 
  <translators>
