@@ -10,4 +10,4 @@
 
 ## Статус
 
-![Статус русского перевода](http://doc.php.net/images/revcheck/info_revcheck_php_ru.png)
+<img src="http://doc.php.net/images/revcheck/info_revcheck_php_ru.png" width="100%" alt="Статус русского перевода" />
